@@ -1,0 +1,6 @@
+[2023-04-21 09:41:53] local.INFO: array (
+  'request_type' => 'Mail Request',
+  'request_data' => 'SMTP Error: Could not authenticate.',
+  'additional_notes' => 'Welcome',
+  'hit_time' => '2023-04-21 09:41:53',
+)  

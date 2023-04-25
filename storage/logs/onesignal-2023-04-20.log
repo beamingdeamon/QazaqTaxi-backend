@@ -1,0 +1,50 @@
+[2023-04-20 00:00:50] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["2b03eb48-7c91-4107-8335-5581bab3ad05"]}}',
+)  
+[2023-04-20 07:11:24] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"573c6519-0603-43c0-96c2-1175b309c55a","external_id":null}',
+)  
+[2023-04-20 07:11:28] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"9a72ccdf-6883-4b15-a64d-85a206340588","external_id":null}',
+)  
+[2023-04-20 07:11:50] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"0b05f900-0277-410e-aa1a-dafafbde390f","external_id":null}',
+)  
+[2023-04-20 07:11:53] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"ec2f8309-f900-4159-bf9a-56abdd2f1ca9","external_id":null}',
+)  
+[2023-04-20 13:11:56] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"c761c3a7-b179-432f-b5cf-5547c5f63cab","external_id":null}',
+)  
+[2023-04-20 13:11:56] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"6b037845-9943-4e53-ac94-937382270888","external_id":null}',
+)  
+[2023-04-20 12:50:05] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"786f4bda-5763-473e-97a3-91fe70e19471","external_id":null}',
+)  
+[2023-04-20 12:50:25] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"3ae93cd3-f724-43b8-a65f-7567146037f3","external_id":null}',
+)  
+[2023-04-20 16:15:46] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"c8948a44-8c49-47e2-bfc2-74a65d727fc3","external_id":null}',
+)  

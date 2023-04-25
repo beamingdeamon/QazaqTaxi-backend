@@ -1,0 +1,964 @@
+[2023-04-15 03:59:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25843386379611,76.88268564641476&destination=43.246528847347214,76.88268564641476&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 03:59:53',
+)  
+[2023-04-15 03:59:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25843386379611,76.88268564641476&destination=43.246528847347214,76.88268564641476&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 03:59:53',
+)  
+[2023-04-15 03:59:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25843386379611,76.88268564641476&destination=43.246528847347214,76.88268564641476&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 03:59:53',
+)  
+[2023-04-15 03:59:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25843386379611,76.88268564641476&destination=43.246528847347214,76.88268564641476&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 03:59:53',
+)  
+[2023-04-15 03:59:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25843386379611,76.88268564641476&destination=43.246528847347214,76.88268564641476&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 03:59:54',
+)  
+[2023-04-15 03:59:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25843386379611,76.88268564641476&destination=43.246528847347214,76.88268564641476&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 03:59:54',
+)  
+[2023-04-15 04:00:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25843386379611,76.88268564641476&destination=43.246528847347214,76.88268564641476&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 04:00:02',
+)  
+[2023-04-15 05:36:29] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163135198498,76.9352351501584&destination=43.23279338174265,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 05:36:29',
+)  
+[2023-04-15 05:36:29] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163135198498,76.9352351501584&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 05:36:29',
+)  
+[2023-04-15 07:54:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.243233018538476,76.83719135820864&destination=43.2439147,76.8366231&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 07:54:53',
+)  
+[2023-04-15 07:54:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.243233018538476,76.83719135820864&destination=43.24391466771055,76.83662306517361&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 07:54:53',
+)  
+[2023-04-15 08:54:47] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.22831591223971,76.90647315233946&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:47',
+)  
+[2023-04-15 08:54:47] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.225274641257094,76.90871715545654&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:47',
+)  
+[2023-04-15 08:54:48] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.22241376831202,76.89191579818726&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:48',
+)  
+[2023-04-15 08:54:49] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.221176295337635,76.88548386096954&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:49',
+)  
+[2023-04-15 08:54:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.21829910412744,76.87741175293922&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:51',
+)  
+[2023-04-15 08:54:52] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.21678959948057,76.87540110200644&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:52',
+)  
+[2023-04-15 08:54:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.2171834718909,76.87712609767914&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:54',
+)  
+[2023-04-15 08:54:55] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.21810192751018,76.87673047184944&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:54:55',
+)  
+[2023-04-15 08:55:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.21738651554532,76.87685284763575&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:55:15',
+)  
+[2023-04-15 08:55:16] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.217882515853226,76.87700774520636&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:55:16',
+)  
+[2023-04-15 08:55:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.218117564836426,76.87671236693859&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:55:20',
+)  
+[2023-04-15 08:55:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.228366725021466,76.90599404275417&destination=43.218117564836426,76.87671236693859&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 08:55:33',
+)  
+[2023-04-15 08:55:34] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.228366725021466,76.90599404275417&destination=43.218117564836426,76.87671236693859&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-15 08:55:34',
+)  
+[2023-04-15 13:24:39] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23545469295961,76.95403710007668&destination=43.23279338174265,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 13:24:39',
+)  
+[2023-04-15 13:24:40] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23545469295961,76.95403710007668&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 13:24:40',
+)  
+[2023-04-15 13:24:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23545469295961,76.95403710007668&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 13:24:51',
+)  
+[2023-04-15 13:24:52] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.23545469295961,76.95403710007668&destination=43.23280510691155,76.89610071480274&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-15 13:24:52',
+)  
+[2023-04-15 13:26:25] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23545469295961,76.95403710007668&destination=43.23638899448314,76.89047746360302&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 13:26:25',
+)  
+[2023-04-15 13:26:40] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23545469295961,76.95403710007668&destination=43.23638899448314,76.89047746360302&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 13:26:40',
+)  
+[2023-04-15 13:26:41] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.23545469295961,76.95403710007668&destination=43.23638899448314,76.89047746360302&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-15 13:26:41',
+)  
+[2023-04-15 14:15:30] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.2333933,76.9568196&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:15:30',
+)  
+[2023-04-15 14:15:30] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.23339331665726,76.9568195566535&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:15:30',
+)  
+[2023-04-15 14:15:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.228141242979326,76.9563602283597&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:15:59',
+)  
+[2023-04-15 14:16:00] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.23197481281128,76.95859920233488&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:00',
+)  
+[2023-04-15 14:16:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.25164331772778,76.95970796048641&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:02',
+)  
+[2023-04-15 14:16:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.2333933,76.9568196&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:07',
+)  
+[2023-04-15 14:16:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.23339331665726,76.9568195566535&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:07',
+)  
+[2023-04-15 14:16:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.25166724920634,76.95967879146338&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:12',
+)  
+[2023-04-15 14:16:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25165845805206,76.95966806262732&destination=43.25049801454607,76.96044456213713&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:13',
+)  
+[2023-04-15 14:16:29] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516528414806,76.95969019085169&destination=43.2333933,76.9568196&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:29',
+)  
+[2023-04-15 14:16:29] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516528414806,76.95969019085169&destination=43.23339331665726,76.9568195566535&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:16:29',
+)  
+[2023-04-15 14:17:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163208458155,76.95980452001095&destination=43.2333933,76.9568196&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:17:54',
+)  
+[2023-04-15 14:17:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163208458155,76.95980452001095&destination=43.23339331665726,76.9568195566535&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:17:54',
+)  
+[2023-04-15 14:18:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163208458155,76.95980452001095&destination=43.23482497786487,76.95407029241323&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:18:19',
+)  
+[2023-04-15 14:18:22] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163208458155,76.95980452001095&destination=43.2007758,76.8922833&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:18:22',
+)  
+[2023-04-15 14:18:23] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163208458155,76.95980452001095&destination=43.20077575023088,76.8922832608223&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:18:23',
+)  
+[2023-04-15 14:18:39] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163208458155,76.95980452001095&destination=55.41030689999999,37.9024513&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:18:39',
+)  
+[2023-04-15 14:18:39] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25163208458155,76.95980452001095&destination=55.41030682938259,37.902451157569885&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 14:18:39',
+)  
+[2023-04-15 17:16:45] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.2444937,76.90285539999999&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:16:45',
+)  
+[2023-04-15 17:16:45] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.24450496826573,76.90285552293062&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:16:45',
+)  
+[2023-04-15 17:16:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.241735366268784,76.91278908401728&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:16:56',
+)  
+[2023-04-15 17:17:00] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.24397865588331,76.9108086079359&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:17:00',
+)  
+[2023-04-15 17:17:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.2444937,76.90285539999999&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:17:02',
+)  
+[2023-04-15 17:17:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.24450496826573,76.90285552293062&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:17:02',
+)  
+[2023-04-15 17:18:09] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.24412617034609,76.90735157579185&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:18:09',
+)  
+[2023-04-15 17:18:11] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.247402169356235,76.9080613553524&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:18:11',
+)  
+[2023-04-15 17:18:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.2444937,76.90285539999999&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:18:15',
+)  
+[2023-04-15 17:18:16] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26260710141411,76.95119194686413&destination=43.24450496826573,76.90285552293062&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:18:16',
+)  
+[2023-04-15 17:18:36] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26261833253592,76.95119194686413&destination=43.24450496826573,76.90285552293062&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:18:36',
+)  
+[2023-04-15 17:30:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.262615402678236,76.9511728361249&destination=43.2444937,76.90285539999999&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:30:27',
+)  
+[2023-04-15 17:30:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.262615402678236,76.9511728361249&destination=43.24450496826573,76.90285552293062&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:30:27',
+)  
+[2023-04-15 17:31:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23544834210285,76.95402905344963&destination=43.23279338174265,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:31:27',
+)  
+[2023-04-15 17:31:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23544834210285,76.95402905344963&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:31:27',
+)  
+[2023-04-15 17:32:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23544834210285,76.95402905344963&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:32:28',
+)  
+[2023-04-15 17:32:30] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.23544834210285,76.95402905344963&destination=43.23280510691155,76.89610071480274&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-15 17:32:30',
+)  
+[2023-04-15 17:33:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23544834210285,76.95402905344963&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:33:05',
+)  
+[2023-04-15 17:33:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.23544834210285,76.95402905344963&destination=43.23280510691155,76.89610071480274&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-15 17:33:07',
+)  
+[2023-04-15 17:35:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23544931915777,76.95403106510639&destination=43.23279338174265,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:35:59',
+)  
+[2023-04-15 17:35:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23544931915777,76.95403106510639&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:35:59',
+)  
+[2023-04-15 17:36:11] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23544931915777,76.95403106510639&destination=43.23280510691155,76.89610071480274&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 17:36:11',
+)  
+[2023-04-15 17:36:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.23544931915777,76.95403106510639&destination=43.23280510691155,76.89610071480274&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-15 17:36:13',
+)  
+[2023-04-15 18:22:03] local.EMERGENCY: array (
+  'request_type' => 'GeoCode Api Common Controller',
+  'request_data' => '{
+   "plus_code" : {
+      "compound_code" : "6XP3+5JF Almaty, Kazakhstan",
+      "global_code" : "8JMR6XP3+5JF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medeu District",
+               "short_name" : "Medeu District",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050000",
+               "short_name" : "050000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "22, Almaty 050000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2354896,
+                  "lng" : 76.9541041
+               },
+               "southwest" : {
+                  "lat" : 43.2353294,
+                  "lng" : 76.9534135
+               }
+            },
+            "location" : {
+               "lat" : 43.23539299999999,
+               "lng" : 76.95375130000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2367584802915,
+                  "lng" : 76.95510778029151
+               },
+               "southwest" : {
+                  "lat" : 43.2340605197085,
+                  "lng" : 76.95240981970849
+               }
+            }
+         },
+         "place_id" : "ChIJRRnJJP1ugzgRAVOv-sFxJW4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Al-Farabi Avenue",
+               "short_name" : "Al-Farabi Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medeu District",
+               "short_name" : "Medeu District",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050000",
+               "short_name" : "050000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Al-Farabi Avenue 21, Almaty 050000, Kazakhstan",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2355725,
+               "lng" : 76.95417890000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.23692148029149,
+                  "lng" : 76.95552788029153
+               },
+               "southwest" : {
+                  "lat" : 43.23422351970849,
+                  "lng" : 76.95282991970852
+               }
+            }
+         },
+         "place_id" : "ChIJbW70Nh9vgzgR0xHfoArNfUI",
+         "plus_code" : {
+            "compound_code" : "6XP3+6M Almaty, Kazakhstan",
+            "global_code" : "8JMR6XP3+6M"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6XP3+5J",
+               "short_name" : "6XP3+5J",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karasay District",
+               "short_name" : "Karasay District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "6XP3+5J Almaty, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.23549999999999,
+                  "lng" : 76.95412499999999
+               },
+               "southwest" : {
+                  "lat" : 43.235375,
+                  "lng" : 76.95399999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.235442,
+               "lng" : 76.95404119999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.23678648029149,
+                  "lng" : 76.9554114802915
+               },
+               "southwest" : {
+                  "lat" : 43.23408851970849,
+                  "lng" : 76.95271351970848
+               }
+            }
+         },
+         "place_id" : "GhIJaw2l9iKeRUARV0LSAg89U0A",
+         "plus_code" : {
+            "compound_code" : "6XP3+5J Almaty, Kazakhstan",
+            "global_code" : "8JMR6XP3+5J"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Нeizvestnaya doroga",
+               "short_name" : "Нeizvestnaya doroga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medeu District",
+               "short_name" : "Medeu District",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050000",
+               "short_name" : "050000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Нeizvestnaya doroga, Almaty 050000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2352081,
+                  "lng" : 76.9550211
+               },
+               "southwest" : {
+                  "lat" : 43.2351667,
+                  "lng" : 76.9537483
+               }
+            },
+            "location" : {
+               "lat" : 43.2351913,
+               "lng" : 76.95438969999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2365363802915,
+                  "lng" : 76.9557336802915
+               },
+               "southwest" : {
+                  "lat" : 43.2338384197085,
+                  "lng" : 76.9530357197085
+               }
+            }
+         },
+         "place_id" : "ChIJ59C9Pf1ugzgR1l-X1wiBvZw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samal-1",
+               "short_name" : "Samal-1",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Medeu District",
+               "short_name" : "Medeu District",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050000",
+               "short_name" : "050000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Samal-1, Almaty 050000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.23812179999999,
+                  "lng" : 76.9581556
+               },
+               "southwest" : {
+                  "lat" : 43.233854,
+                  "lng" : 76.94925069999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2353086,
+               "lng" : 76.95350379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.23812179999999,
+                  "lng" : 76.9581556
+               },
+               "southwest" : {
+                  "lat" : 43.233854,
+                  "lng" : 76.94925069999999
+               }
+            }
+         },
+         "place_id" : "ChIJb9LFUPxugzgRtx4Jc9EjpEY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "050000",
+               "short_name" : "050000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almaty 050000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4044208,
+                  "lng" : 77.22183389999999
+               },
+               "southwest" : {
+                  "lat" : 43.20255950000001,
+                  "lng" : 76.81442989999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2498003,
+               "lng" : 76.9390346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4044208,
+                  "lng" : 77.22183389999999
+               },
+               "southwest" : {
+                  "lat" : 43.20255950000001,
+                  "lng" : 76.81442989999999
+               }
+            }
+         },
+         "place_id" : "ChIJY-_FZ8BugzgRsMin02HDSiU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medeu District",
+               "short_name" : "Medeu District",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medeu District, Almaty, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3197452,
+                  "lng" : 77.1470691
+               },
+               "southwest" : {
+                  "lat" : 43.0291217,
+                  "lng" : 76.90815929999999
+               }
+            },
+            "location" : {
+               "lat" : 43.1474701,
+               "lng" : 77.03341790000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3197452,
+                  "lng" : 77.1470691
+               },
+               "southwest" : {
+                  "lat" : 43.0291217,
+                  "lng" : 76.90815929999999
+               }
+            }
+         },
+         "place_id" : "ChIJWZkAoMZtgzgRoJecOGqK0E8",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karasay District",
+               "short_name" : "Karasay District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almaty, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4066586,
+                  "lng" : 77.1467686
+               },
+               "southwest" : {
+                  "lat" : 43.0287453,
+                  "lng" : 76.7415618
+               }
+            },
+            "location" : {
+               "lat" : 43.2220146,
+               "lng" : 76.8512485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4066586,
+                  "lng" : 77.1467686
+               },
+               "southwest" : {
+                  "lat" : 43.0287453,
+                  "lng" : 76.7415618
+               }
+            }
+         },
+         "place_id" : "ChIJq8vFFn1ugzgRdm2YrY9mRD0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            },
+            "location" : {
+               "lat" : 48.019573,
+               "lng" : 66.92368399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            }
+         },
+         "place_id" : "ChIJR6n87AcQqTgRGw6z5C-Ee18",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+',
+  'additional_notes' => 'Geocode Api for address',
+  'hit_time' => '2023-04-15 18:22:03',
+)  
+[2023-04-15 23:55:52] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.261664168104346,76.8132147565484&destination=43.2624068,76.9631808&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 23:55:52',
+)  
+[2023-04-15 23:55:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.261664168104346,76.8132147565484&destination=43.2624068941128,76.96318075060844&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 23:55:53',
+)  
+[2023-04-15 23:56:04] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.261664168104346,76.8132147565484&destination=43.26173595069792,76.96317873895168&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-15 23:56:04',
+)  

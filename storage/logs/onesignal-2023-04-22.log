@@ -1,0 +1,5 @@
+[2023-04-22 06:35:50] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"eae268bd-b601-434b-b880-e9feb6b385c9","external_id":null}',
+)  

@@ -1,0 +1,110 @@
+[2023-04-21 07:26:07] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"d744c00b-71f7-41f3-8a73-a719d5b15482","external_id":null}',
+)  
+[2023-04-21 07:26:15] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["c6239b10-9bca-4dad-a890-1ac645b64d04","e7bc9005-9f28-47b1-8c7a-b18b431bbcdd"]}}',
+)  
+[2023-04-21 07:26:38] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["c6239b10-9bca-4dad-a890-1ac645b64d04","e7bc9005-9f28-47b1-8c7a-b18b431bbcdd"]}}',
+)  
+[2023-04-21 07:26:49] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["c6239b10-9bca-4dad-a890-1ac645b64d04","e7bc9005-9f28-47b1-8c7a-b18b431bbcdd"]}}',
+)  
+[2023-04-21 13:27:08] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["c6239b10-9bca-4dad-a890-1ac645b64d04","e7bc9005-9f28-47b1-8c7a-b18b431bbcdd"]}}',
+)  
+[2023-04-21 13:27:08] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"1801063e-8043-43f6-b79f-9522b477ae14","external_id":null}',
+)  
+[2023-04-21 09:28:30] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"05132e33-aa99-41aa-a569-39d7ec4312be","external_id":null}',
+)  
+[2023-04-21 09:36:45] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"2b7c8d54-34bf-4fd5-a044-b06149073a5d","external_id":null}',
+)  
+[2023-04-21 09:42:26] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"a4c55d95-8891-4fb7-a57a-5a4815673a7e","external_id":null}',
+)  
+[2023-04-21 09:46:39] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"43f1e2ab-204f-4643-80fd-ad76f79f09d2","external_id":null}',
+)  
+[2023-04-21 09:46:41] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"d7106266-0b38-45c3-b391-3a7fc41b9be6","external_id":null}',
+)  
+[2023-04-21 09:46:41] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"515d07fc-1729-4136-af5d-16db29b66ca4","external_id":null}',
+)  
+[2023-04-21 09:46:42] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"5cb03920-0d08-40a4-a5cc-5f0f63956bee","external_id":null}',
+)  
+[2023-04-21 09:48:52] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"65a386f5-85e1-4baf-9e48-88e2b0c2f207","external_id":null}',
+)  
+[2023-04-21 09:50:58] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"35526132-73c1-4c16-bdee-c4569fcbc595","external_id":null}',
+)  
+[2023-04-21 09:51:24] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"c886fce7-6b19-40db-9244-4f880f2d8ad1","external_id":null}',
+)  
+[2023-04-21 09:56:23] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"dd320f44-da15-40db-91a7-cb17d677af92","external_id":null}',
+)  
+[2023-04-21 09:56:35] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["8272b258-3aaf-4344-b7b4-2ef56aa1e7b0"]}}',
+)  
+[2023-04-21 09:57:44] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["8272b258-3aaf-4344-b7b4-2ef56aa1e7b0"]}}',
+)  
+[2023-04-21 09:59:00] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["8272b258-3aaf-4344-b7b4-2ef56aa1e7b0"]}}',
+)  
+[2023-04-21 15:59:54] local.EMERGENCY: array (
+  'fcm_android' => '',
+  'fcm_ios' => '',
+  'one_signal' => '{"id":"","errors":{"invalid_player_ids":["8272b258-3aaf-4344-b7b4-2ef56aa1e7b0"]}}',
+)  
+[2023-04-21 15:59:55] local.EMERGENCY: array (
+  'android' => '',
+  'ios' => '',
+  'one_signal' => '{"id":"c42c64be-cc2a-4d7c-9bec-38a92ba53a57","external_id":null}',
+)  

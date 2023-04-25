@@ -1,0 +1,2 @@
+Batch Import Date,Batch File ID,Product Code,Wallet ID,Amount,Currency,RRN,Error Code,Error Description,Status
+2022-09-28 07:14:18,1101,8026429158,49870000529,50,N$,111,,,0

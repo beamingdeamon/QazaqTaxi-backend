@@ -1,0 +1,1722 @@
+[2023-04-20 01:25:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22067885588578,76.84654925018549&destination=43.24148530000001,76.9058484&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 01:25:15',
+)  
+[2023-04-20 01:25:16] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22067885588578,76.84654925018549&destination=43.24148526549873,76.90584853291512&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 01:25:16',
+)  
+[2023-04-20 01:26:16] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22067885588578,76.84654925018549&destination=43.22553409209505,76.89457755535841&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 01:26:16',
+)  
+[2023-04-20 01:26:24] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22067885588578,76.84654925018549&destination=43.24148530000001,76.9058484&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 01:26:24',
+)  
+[2023-04-20 01:26:24] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22067885588578,76.84654925018549&destination=43.24148526549873,76.90584853291512&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 01:26:24',
+)  
+[2023-04-20 02:30:39] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.2518649,76.9343724&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:30:39',
+)  
+[2023-04-20 02:30:39] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.2518826320902,76.93437248468399&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:30:39',
+)  
+[2023-04-20 02:31:41] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.251767858992935,76.93442311137915&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:31:41',
+)  
+[2023-04-20 02:31:43] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.24919932701448,76.93856544792652&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:31:43',
+)  
+[2023-04-20 02:31:49] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.249926331701545,76.92926589399576&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:31:49',
+)  
+[2023-04-20 02:31:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.22303652655274,76.93861708045006&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:31:51',
+)  
+[2023-04-20 02:31:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.22825508342122,76.94825291633606&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:31:59',
+)  
+[2023-04-20 02:32:00] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.24856242763509,76.96003317832947&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:00',
+)  
+[2023-04-20 02:32:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.25822582925476,76.96287464350462&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:01',
+)  
+[2023-04-20 02:32:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.268758760189314,76.97164848446846&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:01',
+)  
+[2023-04-20 02:32:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.268758760189314,76.97164848446846&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:02',
+)  
+[2023-04-20 02:32:03] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.28801880320647,76.98296036571264&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:03',
+)  
+[2023-04-20 02:32:03] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.28801880320647,76.98296036571264&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:03',
+)  
+[2023-04-20 02:32:11] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.31736884302276,76.98284167796373&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:11',
+)  
+[2023-04-20 02:32:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.335560995247086,76.98288962244987&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:12',
+)  
+[2023-04-20 02:32:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.33949314383375,76.97311230003834&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:12',
+)  
+[2023-04-20 02:32:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.338528236436005,76.95589285343885&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:13',
+)  
+[2023-04-20 02:32:14] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.338528236436005,76.95589285343885&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:14',
+)  
+[2023-04-20 02:32:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.33567999982142,76.93267732858658&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:15',
+)  
+[2023-04-20 02:32:16] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.349769906991355,76.90605942159891&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:16',
+)  
+[2023-04-20 02:32:17] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.35285981295108,76.89694091677666&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:17',
+)  
+[2023-04-20 02:32:18] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.35285981295108,76.89694091677666&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:18',
+)  
+[2023-04-20 02:32:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.36211298660985,76.8609057739377&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:19',
+)  
+[2023-04-20 02:32:24] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.36497655766791,76.84417180716991&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:24',
+)  
+[2023-04-20 02:32:25] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.36504870582286,76.81768868118525&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:25',
+)  
+[2023-04-20 02:32:26] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.368037660217524,76.78623005747795&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:26',
+)  
+[2023-04-20 02:32:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.36851366618756,76.75420213490725&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:27',
+)  
+[2023-04-20 02:32:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.371032072883686,76.72084383666514&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:28',
+)  
+[2023-04-20 02:32:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.371032072883686,76.72084383666514&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:28',
+)  
+[2023-04-20 02:32:30] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.37206421651888,76.70471671968699&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:30',
+)  
+[2023-04-20 02:32:32] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.37696245515638,76.6638009622693&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:32',
+)  
+[2023-04-20 02:32:32] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.38408501977676,76.65712963789701&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:32',
+)  
+[2023-04-20 02:32:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.38408501977676,76.65712963789701&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:33',
+)  
+[2023-04-20 02:32:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.17189151892206,76.82677734643221&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:51',
+)  
+[2023-04-20 02:32:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.1908248173603,76.90884590148926&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:53',
+)  
+[2023-04-20 02:32:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.18895651452182,76.89125631004572&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:53',
+)  
+[2023-04-20 02:32:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.18895651452182,76.89125631004572&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:54',
+)  
+[2023-04-20 02:32:55] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.21826489757287,76.91216479986906&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:55',
+)  
+[2023-04-20 02:32:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.21826489757287,76.91216479986906&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:56',
+)  
+[2023-04-20 02:32:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.22655820364146,76.91418819129467&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:56',
+)  
+[2023-04-20 02:32:58] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.22840825466742,76.91376104950905&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:58',
+)  
+[2023-04-20 02:32:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.227708354207415,76.91028088331221&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:32:59',
+)  
+[2023-04-20 02:33:00] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.2270424030625,76.91008809953928&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:33:00',
+)  
+[2023-04-20 02:33:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24976271366742,76.88521463423967&destination=43.22685038498337,76.90557427704334&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:33:05',
+)  
+[2023-04-20 02:38:25] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23398494050023,76.88978612422943&destination=43.233035945715336,76.88937909901142&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:38:25',
+)  
+[2023-04-20 02:55:52] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.28480722619945,76.89277846366167&destination=43.283984962981556,76.89206667244434&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 02:55:52',
+)  
+[2023-04-20 04:07:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.18928260996522,76.90112315118313&destination=43.229122,76.905242&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 04:07:20',
+)  
+[2023-04-20 04:07:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.18928260996522,76.90112315118313&destination=43.22912207157062,76.90524201840162&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 04:07:20',
+)  
+[2023-04-20 06:25:16] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.255587977530645,76.94002456963062&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:16',
+)  
+[2023-04-20 06:25:17] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.28092572405075,76.95855997502804&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:17',
+)  
+[2023-04-20 06:25:18] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.28607830757625,77.0045192912221&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:18',
+)  
+[2023-04-20 06:25:18] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.2937916008005,77.04840760678053&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:18',
+)  
+[2023-04-20 06:25:22] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.313017128674936,77.09154088050127&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:22',
+)  
+[2023-04-20 06:25:23] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.309453364829444,77.09846667945385&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:23',
+)  
+[2023-04-20 06:25:23] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.309453364829444,77.09846667945385&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:23',
+)  
+[2023-04-20 06:25:24] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31386046690972,77.09781289100647&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:24',
+)  
+[2023-04-20 06:25:25] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31125454568937,77.09771666675806&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:25',
+)  
+[2023-04-20 06:25:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31256923007841,77.10151065140963&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:28',
+)  
+[2023-04-20 06:25:29] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31514167460066,77.1044634282589&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:29',
+)  
+[2023-04-20 06:25:30] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.314849428918144,77.10496131330729&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:30',
+)  
+[2023-04-20 06:25:30] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.315419770188804,77.10629235953093&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:30',
+)  
+[2023-04-20 06:25:30] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.315419770188804,77.10629235953093&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:30',
+)  
+[2023-04-20 06:25:32] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31530462901195,77.10580922663212&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:32',
+)  
+[2023-04-20 06:25:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31537854381793,77.10602078586817&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:33',
+)  
+[2023-04-20 06:25:34] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.315222176086,77.10596445947886&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:34',
+)  
+[2023-04-20 06:25:34] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31531585040742,77.1061210334301&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:34',
+)  
+[2023-04-20 06:25:36] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.3154185504741,77.10609186440706&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:36',
+)  
+[2023-04-20 06:25:37] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.315434894649236,77.10603252053261&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:25:37',
+)  
+[2023-04-20 06:26:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=51.14833549999999,71.48632789999999&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:07',
+)  
+[2023-04-20 06:26:08] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=51.148335496642446,71.48632787168026&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:08',
+)  
+[2023-04-20 06:26:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=51.145601455249036,71.49217441678047&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:10',
+)  
+[2023-04-20 06:26:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=51.242336291853135,71.4846333861351&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:12',
+)  
+[2023-04-20 06:26:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=51.242336291853135,71.4846333861351&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:13',
+)  
+[2023-04-20 06:26:14] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.3437219,76.9948862&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:14',
+)  
+[2023-04-20 06:26:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.343721778762564,76.99488613754511&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:15',
+)  
+[2023-04-20 06:26:17] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.34666058214171,77.01168548315763&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:17',
+)  
+[2023-04-20 06:26:18] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.346520874557434,77.00752805918455&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:18',
+)  
+[2023-04-20 06:26:18] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.34551194706472,77.0073439925909&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:18',
+)  
+[2023-04-20 06:26:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.34551194706472,77.0073439925909&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:19',
+)  
+[2023-04-20 06:26:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.346343862392004,77.00693462044&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:20',
+)  
+[2023-04-20 06:26:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.346343862392004,77.00693462044&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:20',
+)  
+[2023-04-20 06:26:36] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31546221624558,77.10592523217201&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:36',
+)  
+[2023-04-20 06:26:36] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31545221459122,77.10586789995432&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:36',
+)  
+[2023-04-20 06:26:44] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31539488800383,77.10579078644514&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:44',
+)  
+[2023-04-20 06:26:44] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31545709344722,77.10593696683645&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:44',
+)  
+[2023-04-20 06:26:45] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.34651721728651,77.00704894959927&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:44',
+)  
+[2023-04-20 06:26:47] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31533268249677,77.10594870150089&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:47',
+)  
+[2023-04-20 06:26:48] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.315434894649236,77.10584878921509&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:48',
+)  
+[2023-04-20 06:26:50] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25168922708654,76.93512953817844&destination=43.31545904498949,77.10604693740606&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:26:50',
+)  
+[2023-04-20 06:27:26] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.346290953696915,77.00713880360126&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:27:26',
+)  
+[2023-04-20 06:27:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.346106138630475,77.00687292963266&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:27:28',
+)  
+[2023-04-20 06:27:29] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.33027456703704,76.9519479945302&destination=43.34629485480043,77.00693964958191&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:27:29',
+)  
+[2023-04-20 06:31:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.25632931258099,76.93632211536169&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:31:54',
+)  
+[2023-04-20 06:31:55] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.25635104459881,76.93626075983047&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:31:55',
+)  
+[2023-04-20 06:32:03] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.25642307763613,76.93635530769825&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:03',
+)  
+[2023-04-20 06:32:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.256347870259624,76.93631507456303&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:05',
+)  
+[2023-04-20 06:32:06] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.25645799531507,76.93651489913464&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:06',
+)  
+[2023-04-20 06:32:08] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.25639939220615,76.93714387714863&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:08',
+)  
+[2023-04-20 06:32:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.255948390559865,76.93651389330626&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:10',
+)  
+[2023-04-20 06:32:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.255948390559865,76.93651389330626&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:10',
+)  
+[2023-04-20 06:32:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.2561410494953,76.93621180951595&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:10',
+)  
+[2023-04-20 06:32:11] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.25639621786948,76.9363646954298&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:11',
+)  
+[2023-04-20 06:32:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.256318812839275,76.93630333989859&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:12',
+)  
+[2023-04-20 06:32:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.256005529014956,76.93588022142649&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:20',
+)  
+[2023-04-20 06:32:21] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.255637790840574,76.9361836463213&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:21',
+)  
+[2023-04-20 06:32:22] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25630416203384,76.93625438958406&destination=43.255637790840574,76.9361836463213&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:32:22',
+)  
+[2023-04-20 06:34:32] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.28095520000001,76.9582836&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:34:32',
+)  
+[2023-04-20 06:34:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.28095525788893,76.9582837074995&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:34:33',
+)  
+[2023-04-20 06:36:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.31514508981736,76.90963950008154&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:36:12',
+)  
+[2023-04-20 06:36:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.30737790306231,76.93290363997221&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:36:13',
+)  
+[2023-04-20 06:36:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.29695487611641,76.94820195436478&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:36:15',
+)  
+[2023-04-20 06:36:18] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.275026967826,76.95718433707952&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:36:18',
+)  
+[2023-04-20 06:37:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.275026967826,76.95718433707952&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:37:07',
+)  
+[2023-04-20 06:37:08] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.222015043336214,76.85124814510345&destination=43.275026967826,76.95718433707952&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-20 06:37:08',
+)  
+[2023-04-20 06:44:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.28095520000001,76.9582836&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:44:59',
+)  
+[2023-04-20 06:44:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.28095525788893,76.9582837074995&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:44:59',
+)  
+[2023-04-20 06:45:04] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.222015043336214,76.85124814510345&destination=43.28095525788893,76.9582837074995&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:45:04',
+)  
+[2023-04-20 06:45:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25187310837334,76.93519793450832&destination=43.28095525788893,76.9582837074995&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:45:15',
+)  
+[2023-04-20 06:50:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25187310837334,76.93519793450832&destination=43.28095525788893,76.9582837074995&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:50:56',
+)  
+[2023-04-20 06:54:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25178422027747,76.93516742438078&destination=43.220741158200546,76.93555701524019&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:54:20',
+)  
+[2023-04-20 06:54:32] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25178422027747,76.93516742438078&destination=43.220741158200546,76.93555701524019&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 06:54:32',
+)  
+[2023-04-20 06:54:34] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.25178422027747,76.93516742438078&destination=43.220741158200546,76.93555701524019&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-20 06:54:34',
+)  
+[2023-04-20 07:06:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.25462173776671,76.93386521190405&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:06:51',
+)  
+[2023-04-20 07:06:52] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.25717270452611,76.9323742389679&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:06:52',
+)  
+[2023-04-20 07:06:54] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.26028221459978,76.93113639950752&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:06:54',
+)  
+[2023-04-20 07:06:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.264131585172784,76.92984726279974&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:06:56',
+)  
+[2023-04-20 07:07:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.26447192755124,76.92939128726721&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:07:13',
+)  
+[2023-04-20 07:07:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.264550542952065,76.93156085908413&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:07:15',
+)  
+[2023-04-20 07:07:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.264637215093096,76.92976143211126&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:07:20',
+)  
+[2023-04-20 07:07:21] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.251629154195236,76.93523917347193&destination=43.266347194579126,76.92919850349426&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:07:21',
+)  
+[2023-04-20 07:08:50] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516337939735,76.9352374970913&destination=43.25374680994004,76.93413142114878&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:08:50',
+)  
+[2023-04-20 07:08:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516337939735,76.9352374970913&destination=43.25315708733042,76.93437181413174&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:08:56',
+)  
+[2023-04-20 07:08:58] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516337939735,76.9352374970913&destination=43.253702855656776,76.93388868123293&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:08:58',
+)  
+[2023-04-20 07:10:42] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516337939735,76.9352374970913&destination=43.25355121313599,76.93386856466532&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:10:42',
+)  
+[2023-04-20 07:10:44] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516337939735,76.9352374970913&destination=43.253743879655474,76.93415019661188&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:10:44',
+)  
+[2023-04-20 07:10:44] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516337939735,76.9352374970913&destination=43.253743879655474,76.93415019661188&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:10:44',
+)  
+[2023-04-20 07:11:09] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2516337939735,76.9352374970913&destination=43.253743879655474,76.93415019661188&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:11:09',
+)  
+[2023-04-20 07:11:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.2516337939735,76.9352374970913&destination=43.253743879655474,76.93415019661188&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-20 07:11:10',
+)  
+[2023-04-20 07:11:52] local.EMERGENCY: array (
+  'request_type' => 'GeoCode Api Google Controller',
+  'request_data' => 'https://maps.googleapis.com/maps/api/geocode/json?latlng=43.2516302,76.9352388&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Geocode Api for address(rideStart)',
+  'hit_time' => '2023-04-20 07:11:52',
+)  
+[2023-04-20 07:11:55] local.EMERGENCY: array (
+  'request_type' => 'GeoCode Api Google Controller',
+  'request_data' => 'https://maps.googleapis.com/maps/api/geocode/json?latlng=43.251624,76.9352391&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Geocode Api for address(endRide)',
+  'hit_time' => '2023-04-20 07:11:55',
+)  
+[2023-04-20 07:11:55] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=metric&origin=43.2516302,76.9352388&destination=43.251624,76.9352391&alternatives=true&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GoogleShortestPathDistance)(endRide907)',
+  'hit_time' => '2023-04-20 07:11:55',
+)  
+[2023-04-20 07:24:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24666731954128,76.91813070327044&destination=43.24670541765587,76.91825743764639&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:24:51',
+)  
+[2023-04-20 07:25:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24666731954128,76.91813070327044&destination=43.258931,40.3950914&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:25:12',
+)  
+[2023-04-20 07:25:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24666731954128,76.91813070327044&destination=43.25894222690298,40.395091362297535&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 07:25:13',
+)  
+[2023-04-20 08:13:20] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20662109326639,76.85666084289551&destination=43.1908524,76.8069371&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:13:20',
+)  
+[2023-04-20 08:13:21] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20662109326639,76.85666084289551&destination=43.19085243935976,76.80693704634905&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:13:21',
+)  
+[2023-04-20 08:13:55] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20662109326639,76.85666084289551&destination=43.17494156458111,76.80315982550383&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:13:55',
+)  
+[2023-04-20 08:14:53] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20662109326639,76.85666084289551&destination=43.16639180924534,76.80471919476986&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:14:53',
+)  
+[2023-04-20 08:17:03] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.204907481868844,76.78821489214897&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:03',
+)  
+[2023-04-20 08:17:04] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.20813744768966,76.79275386035442&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:04',
+)  
+[2023-04-20 08:17:04] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.21064539806463,76.80101372301579&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:04',
+)  
+[2023-04-20 08:17:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.21064539806463,76.80101372301579&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:05',
+)  
+[2023-04-20 08:17:08] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.22522749046834,76.80750869214535&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:08',
+)  
+[2023-04-20 08:17:11] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.21717003335803,76.80551145225763&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:11',
+)  
+[2023-04-20 08:17:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.1989688545326,76.79894272238016&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:12',
+)  
+[2023-04-20 08:17:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.21375826054952,76.7884013056755&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:15',
+)  
+[2023-04-20 08:17:17] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.217304662889916,76.79214600473642&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:17',
+)  
+[2023-04-20 08:17:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.2196920275941,76.7949153855443&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:19',
+)  
+[2023-04-20 08:17:21] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.21836898317209,76.79515812546015&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:21',
+)  
+[2023-04-20 08:17:23] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.21864067995534,76.79534889757633&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:17:23',
+)  
+[2023-04-20 08:18:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.220046789195145,76.79559599608183&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:18:01',
+)  
+[2023-04-20 08:18:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.220046789195145,76.79559599608183&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:18:01',
+)  
+[2023-04-20 08:18:03] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.22200746949097,76.79608281701803&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:18:03',
+)  
+[2023-04-20 08:18:03] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.22905977782063,76.80144790560007&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:18:03',
+)  
+[2023-04-20 08:18:04] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.22905977782063,76.80144790560007&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:18:04',
+)  
+[2023-04-20 08:18:06] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.202020235936835,76.78470086306334&destination=43.23502161186507,76.79993648082018&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 08:18:06',
+)  
+[2023-04-20 09:47:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.2553832,76.9108705&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:27',
+)  
+[2023-04-20 09:47:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.25539482847787,76.91087063401937&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:28',
+)  
+[2023-04-20 09:47:38] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.25336880206721,76.9112129509449&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:38',
+)  
+[2023-04-20 09:47:40] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.2553832,76.9108705&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:40',
+)  
+[2023-04-20 09:47:40] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.25539482847787,76.91087063401937&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:40',
+)  
+[2023-04-20 09:47:49] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.253190053341264,76.9139052182436&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:49',
+)  
+[2023-04-20 09:47:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.2553832,76.9108705&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:51',
+)  
+[2023-04-20 09:47:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.225760072386564,76.90358642488718&destination=43.25539482847787,76.91087063401937&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 09:47:51',
+)  
+[2023-04-20 10:45:25] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.23975040738543,76.83238416910172&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:45:25',
+)  
+[2023-04-20 10:45:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.24030191346197,76.83191780000925&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:45:27',
+)  
+[2023-04-20 10:45:31] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.2401070062161,76.83043017983437&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:45:31',
+)  
+[2023-04-20 10:45:38] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.23165041121943,76.82863142341375&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:45:38',
+)  
+[2023-04-20 10:45:57] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.2388554816768,76.82332802563906&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:45:57',
+)  
+[2023-04-20 10:45:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.23997535798671,76.8211192265153&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:45:59',
+)  
+[2023-04-20 10:46:04] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.237069498942134,76.81780032813549&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:46:04',
+)  
+[2023-04-20 10:46:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.23822116092596,76.81775104254484&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:46:07',
+)  
+[2023-04-20 10:47:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.23753456294452,76.8202106282115&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:47:19',
+)  
+[2023-04-20 10:47:22] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.239888162249606,76.83049019426107&destination=43.197189524455595,76.82800948619843&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 10:47:22',
+)  
+[2023-04-20 12:49:37] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25162988679183,76.93524319678545&destination=43.23675749999999,76.9152354&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 12:49:37',
+)  
+[2023-04-20 12:49:38] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25162988679183,76.93524319678545&destination=43.236767840509124,76.91523525863886&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 12:49:38',
+)  
+[2023-04-20 12:50:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.25162988679183,76.93524319678545&destination=43.236767840509124,76.91523525863886&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 12:50:01',
+)  
+[2023-04-20 12:50:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.25162988679183,76.93524319678545&destination=43.236767840509124,76.91523525863886&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-20 12:50:02',
+)  
+[2023-04-20 15:59:25] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23279045045005,76.79261773824692&destination=43.2355718,76.80757410000001&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:25',
+)  
+[2023-04-20 15:59:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.23279045045005,76.79261773824692&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:28',
+)  
+[2023-04-20 15:59:29] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.234494729023154,76.80178184062243&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:29',
+)  
+[2023-04-20 15:59:32] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24354368152195,76.78514074534179&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:32',
+)  
+[2023-04-20 15:59:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.246688810788335,76.78525272756815&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:33',
+)  
+[2023-04-20 15:59:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24721290180684,76.78517159074545&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:33',
+)  
+[2023-04-20 15:59:34] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24721290180684,76.78517159074545&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:34',
+)  
+[2023-04-20 15:59:38] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.269042194659086,76.80313669145107&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:38',
+)  
+[2023-04-20 15:59:42] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.263789531840885,76.82398583739996&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:42',
+)  
+[2023-04-20 15:59:44] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26228774604051,76.8205251172185&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:44',
+)  
+[2023-04-20 15:59:45] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26228774604051,76.8205251172185&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:45',
+)  
+[2023-04-20 15:59:45] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26228774604051,76.8205251172185&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:45',
+)  
+[2023-04-20 15:59:49] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26728883467508,76.81830525398254&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:49',
+)  
+[2023-04-20 15:59:55] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26400706919307,76.82223200798035&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:55',
+)  
+[2023-04-20 15:59:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26352365179923,76.8221414834261&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:56',
+)  
+[2023-04-20 15:59:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.263463834733614,76.82217299938202&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:56',
+)  
+[2023-04-20 15:59:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.263445523375246,76.8221827223897&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:56',
+)  
+[2023-04-20 15:59:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26349362119813,76.82231817394496&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:56',
+)  
+[2023-04-20 15:59:57] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.263525360857386,76.82226821780205&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:57',
+)  
+[2023-04-20 15:59:57] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26361154615636,76.82219076901674&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:57',
+)  
+[2023-04-20 15:59:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26387815826338,76.82207074016333&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:59',
+)  
+[2023-04-20 15:59:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26333126037463,76.82204090058804&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 15:59:59',
+)  
+[2023-04-20 16:00:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26325557322623,76.82210359722376&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:02',
+)  
+[2023-04-20 16:00:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26103814216989,76.82248413562775&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:05',
+)  
+[2023-04-20 16:00:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26103814216989,76.82248447090387&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:05',
+)  
+[2023-04-20 16:00:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26103814216989,76.82248413562775&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:05',
+)  
+[2023-04-20 16:00:06] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26103814216989,76.82248413562775&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:06',
+)  
+[2023-04-20 16:00:06] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26103814216989,76.82248413562775&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:06',
+)  
+[2023-04-20 16:00:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26103814216989,76.82248413562775&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:07',
+)  
+[2023-04-20 16:00:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26115143283164,76.82246301323175&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:07',
+)  
+[2023-04-20 16:00:08] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26121344961323,76.82302661240101&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:08',
+)  
+[2023-04-20 16:00:09] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.261216623698765,76.82304739952089&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:09',
+)  
+[2023-04-20 16:00:09] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.261222727708954,76.82319827377796&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:09',
+)  
+[2023-04-20 16:00:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26121540289667,76.82310003787279&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:10',
+)  
+[2023-04-20 16:00:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26121149632972,76.82306282222271&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:10',
+)  
+[2023-04-20 16:00:10] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26121149632972,76.82306282222271&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:10',
+)  
+[2023-04-20 16:00:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.261340168746116,76.82314530014992&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:12',
+)  
+[2023-04-20 16:00:12] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26149521010102,76.82262159883976&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:12',
+)  
+[2023-04-20 16:00:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26145785371619,76.82303231209517&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:13',
+)  
+[2023-04-20 16:00:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.261360922336195,76.82312685996294&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:13',
+)  
+[2023-04-20 16:00:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26155112255576,76.82286400347948&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:15',
+)  
+[2023-04-20 16:00:15] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26107061559233,76.82319860905409&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:15',
+)  
+[2023-04-20 16:00:16] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26121100800885,76.82307422161102&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:16',
+)  
+[2023-04-20 16:00:18] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26120636896026,76.82306315749884&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:18',
+)  
+[2023-04-20 16:00:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26120636896026,76.82306315749884&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:19',
+)  
+[2023-04-20 16:00:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26120636896026,76.82306315749884&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:19',
+)  
+[2023-04-20 16:00:22] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26126740904503,76.82281404733658&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:22',
+)  
+[2023-04-20 16:00:23] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26172545188851,76.82213142514229&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:23',
+)  
+[2023-04-20 16:00:24] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26135750409831,76.82310774922371&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:24',
+)  
+[2023-04-20 16:00:26] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26130940458779,76.82299207895994&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:26',
+)  
+[2023-04-20 16:00:27] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26130940458779,76.82299207895994&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:27',
+)  
+[2023-04-20 16:00:31] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26130940458779,76.82299207895994&destination=43.2355718,76.80757410000001&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:31',
+)  
+[2023-04-20 16:00:31] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.26130940458779,76.82299207895994&destination=43.235571695163785,76.80757407099009&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:00:31',
+)  
+[2023-04-20 16:31:51] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24028335089399,76.8971461057663&destination=43.245168042126046,76.92730452865362&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:31:51',
+)  
+[2023-04-20 16:32:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24028335089399,76.8971461057663&destination=43.25398709279449,76.86106838285924&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 16:32:28',
+)  
+[2023-04-20 17:35:00] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.265529076463444,76.89974918961525&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:00',
+)  
+[2023-04-20 17:35:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.26405882880771,76.8974170088768&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:01',
+)  
+[2023-04-20 17:35:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.26405882880771,76.8974170088768&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:01',
+)  
+[2023-04-20 17:35:02] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.2641411069725,76.8971772864461&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:02',
+)  
+[2023-04-20 17:35:03] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.264751231496305,76.89721517264843&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:03',
+)  
+[2023-04-20 17:35:04] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.26379099674147,76.89346980303526&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:04',
+)  
+[2023-04-20 17:35:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.26212245211964,76.8883316963911&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:05',
+)  
+[2023-04-20 17:35:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.26212245211964,76.8883316963911&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:05',
+)  
+[2023-04-20 17:35:06] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.257924031403135,76.87448915094137&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:06',
+)  
+[2023-04-20 17:35:07] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.257924031403135,76.87448915094137&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:07',
+)  
+[2023-04-20 17:35:09] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.25968840444856,76.87187198549509&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:09',
+)  
+[2023-04-20 17:35:11] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.261607767435706,76.87227196991444&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:11',
+)  
+[2023-04-20 17:35:17] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.260570815961856,76.86945665627718&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:17',
+)  
+[2023-04-20 17:35:19] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.2653430391176,76.89990140497684&destination=43.260734893283626,76.87079004943371&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:35:19',
+)  
+[2023-04-20 17:43:57] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.237079024973596,76.91235858947039&destination=43.1733824,76.40424039999999&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:43:57',
+)  
+[2023-04-20 17:43:57] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.237079024973596,76.91235858947039&destination=43.17339357663791,76.40424024313688&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:43:57',
+)  
+[2023-04-20 17:44:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.237079024973596,76.91235858947039&destination=43.18335004051149,76.40856564044952&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:44:33',
+)  
+[2023-04-20 17:49:05] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.1962553553943,76.79855715483427&destination=43.2373116,76.9213614&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:49:05',
+)  
+[2023-04-20 17:49:06] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.1962553553943,76.79855715483427&destination=43.23731155738212,76.92136142402887&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:49:06',
+)  
+[2023-04-20 17:49:28] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.1962553553943,76.79855715483427&destination=43.235844780853924,76.918208822608&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:49:28',
+)  
+[2023-04-20 17:49:33] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.1962553553943,76.79855715483427&destination=43.23902499099422,76.92054402083158&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:49:33',
+)  
+[2023-04-20 17:50:11] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.1962553553943,76.79855715483427&destination=43.23902499099422,76.92054402083158&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 17:50:11',
+)  
+[2023-04-20 17:50:13] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?origin=43.1962553553943,76.79855715483427&destination=43.23902499099422,76.92054402083158&mode=driving&waypoints=&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(WayPointDistance)(mapLoad fun)',
+  'hit_time' => '2023-04-20 17:50:13',
+)  
+[2023-04-20 18:01:34] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22757741207711,76.86234511435032&destination=43.227927241916504,76.86312932521105&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:01:34',
+)  
+[2023-04-20 18:01:41] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22757741207711,76.86234511435032&destination=43.242655161636726,76.89695030450821&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:01:41',
+)  
+[2023-04-20 18:01:41] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22757741207711,76.86234511435032&destination=43.23951886127371,76.91096283495428&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:01:41',
+)  
+[2023-04-20 18:01:44] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.22757741207711,76.86234511435032&destination=43.24413887025002,76.95704787969589&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:01:44',
+)  
+[2023-04-20 18:29:55] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20354159255875,76.85315553098917&destination=43.203938727601226,76.85433603823185&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:29:55',
+)  
+[2023-04-20 18:29:56] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20354159255875,76.85315553098917&destination=43.2063180622388,76.8579526618123&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:29:55',
+)  
+[2023-04-20 18:29:57] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20354159255875,76.85315553098917&destination=43.2065392261614,76.86288390308619&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:29:57',
+)  
+[2023-04-20 18:29:58] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20354159255875,76.85315553098917&destination=43.2065392261614,76.86288390308619&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:29:58',
+)  
+[2023-04-20 18:29:59] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20354159255875,76.85315553098917&destination=43.207673381257436,76.86639625579119&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:29:59',
+)  
+[2023-04-20 18:30:00] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20354159255875,76.85315553098917&destination=43.20524131239395,76.8661555275321&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:30:00',
+)  
+[2023-04-20 18:30:01] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.20354159255875,76.85315553098917&destination=43.20524131239395,76.8661555275321&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:30:01',
+)  
+[2023-04-20 18:56:46] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24205238705839,76.89063470810652&destination=43.2007758,76.8922833&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:56:46',
+)  
+[2023-04-20 18:56:47] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24205238705839,76.89063470810652&destination=43.20078748155795,76.8922832608223&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:56:47',
+)  
+[2023-04-20 18:57:43] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24205238705839,76.89063470810652&destination=43.19830723332331,76.90506901592016&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:57:43',
+)  
+[2023-04-20 18:57:43] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24205238705839,76.89063470810652&destination=43.21781947761426,76.91915195435286&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:57:43',
+)  
+[2023-04-20 18:57:45] local.EMERGENCY: array (
+  'request_type' => 'Direction Api',
+  'request_data' => 'https://maps.googleapis.com/maps/api/directions/json?units=%22%20.%20metric%20.%20%22&origin=43.24205238705839,76.89063470810652&destination=43.23262605356533,76.90934278070927&mode=driving&key=AIzaSyCxzbohHrweOj2Hhb46p-19fbnj-7N5aCk',
+  'additional_notes' => 'Direction Api for Image(GooglestaticsinglePointImage)',
+  'hit_time' => '2023-04-20 18:57:45',
+)  
