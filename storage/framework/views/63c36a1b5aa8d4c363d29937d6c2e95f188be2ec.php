@@ -1,41 +1,43 @@
-@extends('merchant.layouts.main')
-@section('content')
+<?php $__env->startSection('content'); ?>
     <div class="page">
         <div class="page-content">
-            @csrf
+            <?php echo csrf_field(); ?>
             <section id="gmaps-utils">
                 <div class="panel panel-bordered">
                     <header class="panel-heading">
                         <div class="panel-actions">
-                            @if(!empty($info_setting) && $info_setting->view_text != "")
+                            <?php if(!empty($info_setting) && $info_setting->view_text != ""): ?>
                                 <button class="btn btn-icon btn-primary float-right" style="margin:10px"
                                         data-target="#examplePositionSidebar" data-toggle="modal" type="button">
                                     <i class="wb-info ml-1 mr-1" title="Info" style=""></i>
                                 </button>
-                            @endif
+                            <?php endif; ?>
                             <div class="row">
-                                @if(count($merchant_segments) > 1)
+                                <?php if(count($merchant_segments) > 1): ?>
                                     <div class="col-md-6 mt-5">
-                                        @else
+                                        <?php else: ?>
                                             <div class="col-md-12 mt-5">
-                                                @endif
+                                                <?php endif; ?>
                                                 <div class="form-group">
-                                                    {!! Form::select('driver_status',arr_driver_search_status($string_file),'',['class'=>'form-control','id'=>'driver_status', 'onchange'=>"getDriverLocations()"]) !!}
+                                                    <?php echo Form::select('driver_status',arr_driver_search_status($string_file),'',['class'=>'form-control','id'=>'driver_status', 'onchange'=>"getDriverLocations()"]); ?>
+
                                                 </div>
                                             </div>
-                                            @if(count($merchant_segments) > 1)
+                                            <?php if(count($merchant_segments) > 1): ?>
                                                 <div class="col-md-6 mt-5">
                                                     <div class="form-group">
-                                                        {!! Form::select('segment_id',$merchant_segments,[],['class'=>'form-control', 'id'=>'segment_id','data-placeholder'=>trans("$string_file.segment"), 'onchange'=>"getDriverLocations()"]) !!}
+                                                        <?php echo Form::select('segment_id',$merchant_segments,[],['class'=>'form-control', 'id'=>'segment_id','data-placeholder'=>trans("$string_file.segment"), 'onchange'=>"getDriverLocations()"]); ?>
+
                                                     </div>
                                                 </div>
-                                            @else
-                                                {!! Form::hidden('segment_id',array_key_first($merchant_segments)) !!}
-                                            @endif
+                                            <?php else: ?>
+                                                <?php echo Form::hidden('segment_id',array_key_first($merchant_segments)); ?>
+
+                                            <?php endif; ?>
                                     </div>
                             </div>
                             <h3 class="panel-title"><i class=" wb-flag" aria-hidden="true"></i>
-                                @lang("$string_file.driver_map")
+                                <?php echo app('translator')->get("$string_file.driver_map"); ?>
                             </h3>
                     </header>
                     <div class="panel-body container-fluid">
@@ -45,11 +47,11 @@
             </section>
         </div>
     </div>
-    @include('merchant.shared.info-setting',['info_setting'=>$info_setting,'page_name'=>'view_text'])
+    <?php echo $__env->make('merchant.shared.info-setting',['info_setting'=>$info_setting,'page_name'=>'view_text'], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
     <!-- <script src="https://maps.googleapis.com/maps/api/js?key=<?=get_merchant_google_key(NULL, 'admin_backend');?>&libraries=visualization"></script> -->
     <script src="https://mapgl.2gis.com/api/js/v1"></script>
-@endsection
-@section('js')
+<?php $__env->stopSection(); ?>
+<?php $__env->startSection('js'); ?>
     <script>
         let map;
         let markers = [];
@@ -91,7 +93,7 @@
                     'X-CSRF-TOKEN': token
                 },
                 method: 'POST',
-                url: "{{ route('getDriverOnMap') }}",
+                url: "<?php echo e(route('getDriverOnMap')); ?>",
                 data: {
                     driver_status: driver_status,
                     segment_id: segment_id,
@@ -149,7 +151,7 @@
                     'X-CSRF-TOKEN': token
                 },
                 method: 'POST',
-                url: "{{ route('getDriverOnMap') }}",
+                url: "<?php echo e(route('getDriverOnMap')); ?>",
                 data: {
                     driver_status: driver_status,
                     segment_id: segment_id,
@@ -217,4 +219,6 @@
         //google.maps.event.addDomListener(window, 'load', initialize);
 
     </script> -->
-@endsection
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('merchant.layouts.main', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/eldar/Desktop/ms-v3/resources/views/merchant/map/driver.blade.php ENDPATH**/ ?>
