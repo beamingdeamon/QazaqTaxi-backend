@@ -112,6 +112,9 @@
                     icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bananas.svg/560px-Bananas.svg.png',
                     size: [20,20]
                 });
+                new_marker.on('click', (e) => {
+                    alert('Marker is clicked: ' + marker.marker_id);
+                });
             });
         }
         createMap()
