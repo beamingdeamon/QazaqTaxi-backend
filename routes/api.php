@@ -5,6 +5,7 @@ header('Access-Control-Allow-Methods: GET, POST, PATCH, PUT, DELETE, OPTIONS');
 header('Access-Control-Allow-Headers: *');
 //header('Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Credentials, Access-Control-Allow-Origin, Access-Control-Allow-Methods, Access-Control-Allow-Headers, aliasName, publicKey, secretKey, locale');
 
+Route::post('/test-2gis', 'Test2GisController@index')
 //sms testing route
 Route::post('/chkms','SmsGateways\SimpleSms@chkms');
 
