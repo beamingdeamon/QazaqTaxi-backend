@@ -144,8 +144,9 @@
                                         @endphp
                                         <td>{!! nl2br($booking->CountryArea->CountryAreaName ."\n". $service_text."\n".$booking->VehicleType->VehicleTypeName) !!}</td>
 
-                                        <td><a title="{{ $booking->pickup_location }}"
-                                               href="https://www.google.com/maps/place/{{ $booking->pickup_location }}"
+                                        <td>
+                                            <a title="{{ $booking->pickup_location }}"
+                                               href="https://2gis.kz/almaty?m={{ $booking->pickup_longitude . '%2C' . $booking->pickup_latitude . '%2F18.15'}}"
                                                class="btn btn-icon btn-success ml-20"><i class="icon wb-map"></i></a>
                                             <a title="{{ $booking->drop_location }}"
                                                href="https://www.google.com/maps/place/{{ $booking->drop_location }}"
